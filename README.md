@@ -7,3 +7,6 @@
 - MicroSD Card: Minimum 64GB, Class 10 for fast read/write speeds, to host the OS and application code.
 - Power Supply: Raspberry Pi 27W USB-C Power Supply Black US for stable power.
 - Network: Reliable Wi-Fi or Ethernet connection with a minimum upload speed of 5 Mbps for video streaming.
+
+# Instrucitons
+- Run main.py on the raspberry pi and leave it running
