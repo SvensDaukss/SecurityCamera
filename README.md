@@ -1,5 +1,6 @@
 # Security Camera Project
 ## Work in progress project is not done
+- These python files are what belongs on the Raspberry Pi camera.
 ## Hardware Requirements
 - Raspberry Pi 5: 8GB RAM version for optimal performance.
 - Raspberry Pi Camera Module 3 Wide
